@@ -121,6 +121,4 @@ _Refer to the final report for in-depth system analysis and design._
 ## 📬 Contact
 
 **Developer:** Samiul Hoque Sami  
-**Matric No.:** S2014442/1  
-**Session:** Semester 1, 2023/2024  
 **Institution:** Faculty of Computer Science & Information Technology  
